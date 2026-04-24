@@ -1,8 +1,0 @@
-{
-	"appName": "MyApp",
-	"version": "1.0.0"
-	"apiUrl": "https://api.example.com",
-	"apiTimeout": 5000
-	"theme": "dark",
-	"language": "ru"
-}
